@@ -12,6 +12,8 @@ OvercookedBox/obj
 .metadata
 .idea
 .Rhistory
+bin/
+../.idea
 
 # Analysis and Visualization files (Python)
 *.pyc
