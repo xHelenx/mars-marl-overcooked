@@ -1,0 +1,8 @@
+{
+  "layers": [
+    {
+      "name": "Kitchen",
+      "file": "Resources/kitchen_layout.csv"
+    }
+    ]
+  }
