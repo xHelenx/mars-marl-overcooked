@@ -14,7 +14,6 @@ public class Kitchen : RasterLayer
     {
         var initLayer = base.InitLayer(layerInitData, registerAgentHandle, unregisterAgentHandle);
         var map = new SpatialHashEnvironment<Spot>(Height, Width);
-        Console.Out.WriteLine(map);
         
         /*
         SimpleAgentEnvironment = new SpatialHashEnvironment<SimpleAgent>(Width, Height);

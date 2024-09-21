@@ -1,4 +1,8 @@
 {
+  "globals": {
+    "outputs": "csv",
+    "steps": 5
+  },
   "layers": [
     {
       "name": "Kitchen",
