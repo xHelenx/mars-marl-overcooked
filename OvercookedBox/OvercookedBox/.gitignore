@@ -12,7 +12,8 @@
 .Rhistory
 bin/
 obj/
-../.idea
+../.idea/
+
 
 # Analysis and Visualization files (Python)
 *.pyc
